@@ -43,4 +43,4 @@ EFI download link: [Download](https://github.com/quanghd96/Hackintosh-B460M-BAZO
 
 ### Donating 💸
 
-Feel free to [Buy Me a Coffee](https://www.buymeacoffee.com/quanghd96) or ![1KqjVujJduNRNWxZAAvr61fRg945WPuGhF](https://banner2.cleanpng.com/20171220/bhe/bitcoin-png-5a3a2702388611.73714972151376051423153857.jpg) `1KqjVujJduNRNWxZAAvr61fRg945WPuGhF`
+Feel free to [Buy Me a Coffee](https://www.buymeacoffee.com/quanghd96) or ![1KqjVujJduNRNWxZAAvr61fRg945WPuGhF](https://raw.githubusercontent.com/appleserial/NUC8I5BEH/master/misc/BTC.png) `1KqjVujJduNRNWxZAAvr61fRg945WPuGhF`
