@@ -17,9 +17,6 @@
 ### Graphics card support
 
 - [x] Support UHD630 graphics card with only CPU core display
-- [x] Support AMD RX 470/480/570/570X/580/580X/590 series graphics cards
-- [x] Support AMD RX 5500/5600/5700 series graphics cards (dedicated config.plist required)
-  > PS: To use the independent display, you need to forcibly turn on the CPU core display in the BIOS (Advanced -> Built-in display configuration -> Integrated graphics multi-monitor (IGD Multi-monitor) -> Allow), otherwise the core display hardware decoding will fail and only use the core Obviously can be ignored
 
 ### BIOS settings
 
@@ -31,9 +28,9 @@
 
 ### EFI
 
-OpenCore: 0.7.4
+OpenCore: 0.7.8
 
-macOS version: 12.0.1
+macOS version: 12.3.1
 
 EFI download link: [Download](https://github.com/quanghd96/Hackintosh-B460M-BAZOOKA-i3-10100-iGPU-UHD630/releases)
 
