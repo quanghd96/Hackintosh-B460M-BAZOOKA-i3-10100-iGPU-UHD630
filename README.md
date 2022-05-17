@@ -28,9 +28,9 @@
 
 ### EFI
 
-OpenCore: 0.7.8
+OpenCore: 0.8.1
 
-macOS version: 12.3.1
+macOS version: 12.4
 
 EFI download link: [Download](https://github.com/quanghd96/Hackintosh-B460M-BAZOOKA-i3-10100-iGPU-UHD630/releases)
 
