@@ -28,7 +28,7 @@
 
 ### EFI
 
-OpenCore: 0.8.4
+OpenCore: 0.8.5
 
 macOS version: 12.6
 
