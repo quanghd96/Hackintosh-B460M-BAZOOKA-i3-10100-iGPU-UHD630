@@ -272,7 +272,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.4</string>
+                    <string>V1.6.5</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -344,7 +344,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.0</string>
+                    <string>V1.8.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -470,7 +470,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.4</string>
+                    <string>V2.6.6</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -579,6 +579,8 @@
                 <false/>
                 <key>DisableIoMapper</key>
                 <true/>
+                <key>DisableIoMapperMapping</key>
+                <false/>
                 <key>DisableLinkeditJettison</key>
                 <true/>
                 <key>DisableRtcChecksum</key>
@@ -1118,10 +1120,14 @@
                 <true/>
                 <key>ForceResolution</key>
                 <false/>
+                <key>GopBurstMode</key>
+                <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
                 <key>IgnoreTextInGraphics</key>
                 <false/>
+                <key>InitialMode</key>
+                <string>Auto</string>
                 <key>ProvideConsoleGop</key>
                 <true/>
                 <key>ReconnectGraphicsOnConnect</key>
