@@ -1121,7 +1121,7 @@
                 <key>ForceResolution</key>
                 <false/>
                 <key>GopBurstMode</key>
-                <true/>
+                <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
                 <key>IgnoreTextInGraphics</key>
